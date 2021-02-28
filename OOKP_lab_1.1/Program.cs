@@ -24,7 +24,7 @@ namespace OOKP_lab_1._1
         public void Print()
         {
             //comment for branch 1
-            Console.WriteLine("Hello from class 1");
+            Console.WriteLine("Hello from class 1/create conflict");
         }
     }
     class Test2
