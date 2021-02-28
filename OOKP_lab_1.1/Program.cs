@@ -14,6 +14,7 @@ namespace OOKP_lab_1._1
             Test2 test2 = new Test2();
             test1.Print();
             test2.Print();
+            test2.Print2();
             Console.ReadKey();
         }
 
@@ -32,6 +33,10 @@ namespace OOKP_lab_1._1
         {
             //comment for commit
             Console.WriteLine("Hello from class 2");
+        }
+        public void Print2()
+        {
+            Console.WriteLine("Commit for branch_2");
         }
     }
 }
